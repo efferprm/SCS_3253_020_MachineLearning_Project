@@ -8,6 +8,12 @@ John Derek Requejo
 
 The following are included in this project:
 
+Presentation:
+
+1. Predicting Loan Status - PJJ -FInal.pdf
+2. https://youtu.be/0q7et4OG7zE
+
+
 Datasets:
 1. credit_train
 2. credit_test
