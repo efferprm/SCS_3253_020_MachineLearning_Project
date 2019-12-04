@@ -11,8 +11,7 @@ The following are included in this project:
 Presentation:
 
 1. Predicting Loan Status - PJJ -FInal.pdf
-2. https://youtu.be/0q7et4OG7zE
-
+2. https://youtu.be/kIYN6JMlJxw
 
 Datasets:
 1. credit_train
